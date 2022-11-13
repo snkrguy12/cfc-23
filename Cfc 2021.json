@@ -928,20 +928,20 @@
           "state": "Indiana"
         },
         {
-          "abbreviation": "NW",
-          "prestige": "52",
-          "hexColor": "#4E2A84",
+          "abbreviation": "PSU",
+          "prestige": "84",
+          "hexColor": "#00008B",
           "offCoordinator": {
             "contractLength": "3",
             "startYear": "2021",
             "age": "33",
             "cumulativePrestige": "0",
             "homeState": "Arkansas",
-            "ratPot": "66",
+            "ratPot": "84",
             "hometown": "Springdale",
-            "ratTalent": "66",
-            "baselinePrestige": "55",
-            "coachingAbility": "55",
+            "ratTalent": "78",
+            "baselinePrestige": "70",
+            "coachingAbility": "79",
             "name": "Mike Bajakian",
             "contractYear": "0"
           },
@@ -951,11 +951,11 @@
             "age": "47",
             "cumulativePrestige": "0",
             "homeState": "Washington",
-            "ratPot": "56",
+            "ratPot": "74",
             "hometown": "Arlington",
-            "ratTalent": "67",
-            "baselinePrestige": "55",
-            "coachingAbility": "68",
+            "ratTalent": "83",
+            "baselinePrestige": "74",
+            "coachingAbility": "82",
             "name": "Jim O'Neil",
             "contractYear": "0"
           },
@@ -964,9 +964,9 @@
             "contractLength": "6",
             "startYear": "2021",
             "age": "42",
-            "ratOff": "64",
+            "ratOff": "78",
             "cumulativePrestige": "0",
-            "ratDef": "66",
+            "ratDef": "83",
             "homeState": "Virginia",
             "ratPot": "89",
             "hometown": "Linden",
@@ -975,8 +975,8 @@
             "name": "Pat Fitzgerald",
             "contractYear": "0"
           },
-          "name": "Northwestern Wildcats",
-          "state": "Illinois"
+          "name": "Penn State Nittany Lions",
+          "state": "Pennsylvania"
         },
         {
           "abbreviation": "ILL",
