@@ -4,7 +4,7 @@
       "confTeams": [
         {
           "abbreviation": "BAMA",
-          "prestige": "88",
+          "prestige": "90",
           "hexColor": "#9E1B32",
           "offCoordinator": {
             "contractLength": "3",
@@ -543,11 +543,11 @@
             "age": "37",
             "cumulativePrestige": "0",
             "homeState": "Wyoming",
-            "ratPot": "67",
+            "ratPot": "89",
             "hometown": "Cheyenne",
-            "ratTalent": "78",
+            "ratTalent": "90",
             "baselinePrestige": "90",
-            "coachingAbility": "82",
+            "coachingAbility": "89",
             "name": "Mike MacDonald",
             "contractYear": "0"
           },
@@ -556,13 +556,13 @@
             "contractLength": "6",
             "startYear": "2021",
             "age": "43",
-            "ratOff": "73",
+            "ratOff": "87",
             "cumulativePrestige": "0",
-            "ratDef": "69",
+            "ratDef": "87",
             "homeState": "Nebraska",
             "ratPot": "82",
             "hometown": "Howells",
-            "ratTalent": "49",
+            "ratTalent": "91",
             "baselinePrestige": "90",
             "name": "Jim Harbaugh",
             "contractYear": "0"
