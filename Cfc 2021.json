@@ -106,7 +106,7 @@
         },
         {
           "abbreviation": "UGA",
-          "prestige": "92",
+          "prestige": "95",
           "hexColor": "#BA0C2F",
           "offCoordinator": {
             "contractLength": "3",
@@ -117,8 +117,8 @@
             "ratPot": "95",
             "hometown": "Waynesboro",
             "ratTalent": "84",
-            "baselinePrestige": "85",
-            "coachingAbility": "89",
+            "baselinePrestige": "95",
+            "coachingAbility": "95",
             "name": "Todd Monken",
             "contractYear": "0"
           },
@@ -131,7 +131,7 @@
             "ratPot": "95",
             "hometown": "Wamego",
             "ratTalent": "95",
-            "baselinePrestige": "85",
+            "baselinePrestige": "93",
             "coachingAbility": "95",
             "name": "Dan Lanning",
             "contractYear": "0"
@@ -157,7 +157,7 @@
         },
         {
           "abbreviation": "TENN",
-          "prestige": "95",
+          "prestige": "94",
           "hexColor": "#FF8200",
           "offCoordinator": {
             "contractLength": "3",
