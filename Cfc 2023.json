@@ -1547,8 +1547,8 @@
           "state": "Kansas"
         }
       ],
-      "confFullName": "Big 12 Conference",
-      "confPrestige": "68",
+      "confFullName": "Big 12",
+      "confPrestige": "74",
       "confName": "XII"
     },
     {
@@ -2064,8 +2064,8 @@
           "state": "Texas"
         }
       ],
-      "confFullName": "Southwest Conference",
-      "confPrestige": "59",
+      "confFullName": "SWC",
+      "confPrestige": "74",
       "confName": "SWC"
     },
     {
@@ -2582,7 +2582,7 @@
         }
       ],
       "confFullName": "PAC 10",
-      "confPrestige": "64",
+      "confPrestige": "76",
       "confName": "PAC10"
     },
     {
@@ -3099,7 +3099,7 @@
         }
       ],
       "confFullName": "ACC",
-      "confPrestige": "75",
+      "confPrestige": "79",
       "confName": "ACC"
     },
     {
@@ -3616,7 +3616,7 @@
         }
       ],
       "confFullName": "Big East",
-      "confPrestige": "75",
+      "confPrestige": "70",
       "confName": "BEC"
     },
     {
