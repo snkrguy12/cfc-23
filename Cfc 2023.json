@@ -2581,7 +2581,7 @@
           "state": "Arizona"
         }
       ],
-      "confFullName": "Pacific Athletic Conference",
+      "confFullName": "PAC 10",
       "confPrestige": "64",
       "confName": "PAC10"
     },
@@ -2992,7 +2992,7 @@
             "name": "Dave Doeren",
             "contractYear": "0"
           },
-          "name": "North Carolina State Wolfpack",
+          "name": "NC State Wolfpack",
           "state": "North Carolina"
         },
         {
@@ -3098,7 +3098,7 @@
           "state": "North Carolina"
         }
       ],
-      "confFullName": "Atlantic Coast Conference",
+      "confFullName": "ACC",
       "confPrestige": "75",
       "confName": "ACC"
     },
@@ -3615,7 +3615,7 @@
           "state": "Florida"
         }
       ],
-      "confFullName": "Big East Conference",
+      "confFullName": "Big East",
       "confPrestige": "75",
       "confName": "BEC"
     },
@@ -4132,7 +4132,7 @@
           "state": "Nevada"
         }
       ],
-      "confFullName": "Mountain West Conference",
+      "confFullName": "Mountain West",
       "confPrestige": "48",
       "confName": "MWC"
     },
@@ -4649,7 +4649,7 @@
           "state": "North Carolina"
         }
       ],
-      "confFullName": "American Athletic Conference",
+      "confFullName": "AAC",
       "confPrestige": "56",
       "confName": "AAC"
     },
@@ -5683,7 +5683,7 @@
           "state": "Louisiana"
         }
       ],
-      "confFullName": "Sun Belt Conference",
+      "confFullName": "Sun Belt",
       "confPrestige": "44",
       "confName": "SBC"
     },
@@ -6200,7 +6200,7 @@
           "state": "Ohio"
         }
       ],
-      "confFullName": "Mid American Conference",
+      "confFullName": "MAC",
       "confPrestige": "40",
       "confName": "MAC"
     }
