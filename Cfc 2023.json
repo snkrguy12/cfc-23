@@ -514,7 +514,7 @@
         }
       ],
       "confFullName": "SEC",
-      "confPrestige": "74",
+      "confPrestige": "92",
       "confName": "SEC"
     },
     {
@@ -1030,8 +1030,8 @@
           "state": "Illinois"
         }
       ],
-      "confFullName": "Big Ten Conference",
-      "confPrestige": "70",
+      "confFullName": "Big 10",
+      "confPrestige": "84",
       "confName": "B1G"
     },
     {
@@ -1293,7 +1293,7 @@
         },
         {
           "abbreviation": "CU",
-          "prestige": "48",
+          "prestige": "46",
           "hexColor": "#CFB87C",
           "offCoordinator": {
             "contractLength": "3",
@@ -1395,7 +1395,7 @@
         },
         {
           "abbreviation": "TLSA",
-          "prestige": "47",
+          "prestige": "48",
           "hexColor": "#002D72",
           "offCoordinator": {
             "contractLength": "3",
@@ -1548,7 +1548,7 @@
         }
       ],
       "confFullName": "Big 12 Conference",
-      "confPrestige": "58",
+      "confPrestige": "68",
       "confName": "XII"
     },
     {
