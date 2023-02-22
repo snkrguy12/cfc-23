@@ -3412,7 +3412,7 @@
         },
         {
           "abbreviation": "CUSE",
-          "prestige": "77",
+          "prestige": "74",
           "hexColor": "#D44500",
           "offCoordinator": {
             "contractLength": "3",
@@ -4548,7 +4548,7 @@
         },
         {
           "abbreviation": "TLNE",
-          "prestige": "37",
+          "prestige": "75",
           "hexColor": "#006747",
           "offCoordinator": {
             "contractLength": "3",
